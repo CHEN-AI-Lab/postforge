@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "demo": "Demo",
+    "signIn": "Sign In",
+    "getStarted": "Get Started Free"
+  },
+  "hero": {
+    "badge": "AI-Powered Content Engine v1.0",
+    "title": "Write Once.",
+    "titleAccent": "Publish Everywhere.",
+    "subtitle": "Stop rewriting your content for every platform. PostForge uses AI to transform your blog posts, articles, and notes into Twitter threads, LinkedIn posts, newsletters, and more — in seconds.",
+    "cta": "Start For Free",
+    "secondaryCta": "See How It Works",
+    "creditNote": "No credit card required • Free tier: 3 transformations/mo"
+  },
+  "demo": {
+    "title": "Try It Now",
+    "placeholder": "Paste a URL or article text here...",
+    "disabled": "Sign in to Transform →",
+    "hint": "No sign-up required for the demo"
+  },
+  "features": {
+    "title": "One Input, Infinite Outputs",
+    "subtitle": "PostForge intelligently adapts your content for every platform's unique format and audience."
+  },
+  "featureCards": [
+    { "title": "Twitter Threads", "desc": "Turn any article into a compelling Twitter thread with hooks, key points, and CTAs." },
+    { "title": "LinkedIn Posts", "desc": "Professional long-form posts optimized for LinkedIn engagement and reach." },
+    { "title": "Newsletter Summaries", "desc": "Email-friendly digests that capture the essence of your content." },
+    { "title": "Instagram Captions", "desc": "Short, engaging captions with hashtag optimization for maximum reach." },
+    { "title": "SEO Metadata", "desc": "Auto-generated title tags, meta descriptions, and keywords for your blog." },
+    { "title": "Brand Voice", "desc": "AI learns your tone and style — consistent output across all platforms." }
+  ],
+  "pricing": {
+    "title": "Simple Pricing",
+    "subtitle": "Start free. Upgrade when you need more.",
+    "mostPopular": "Most Popular"
+  },
+  "plans": [
+    {
+      "name": "Free",
+      "desc": "Perfect for trying things out",
+      "features": ["3 transformations/month", "All platform formats", "Basic content import"],
+      "cta": "Get Started",
+      "price": 0
+    },
+    {
+      "name": "Pro",
+      "desc": "For serious content creators",
+      "features": ["50 transformations/month", "All platform formats", "Priority processing", "History & library", "Email support"],
+      "cta": "Subscribe",
+      "price": 9
+    },
+    {
+      "name": "Business",
+      "desc": "For teams & agencies",
+      "features": ["Unlimited transformations", "Team accounts (up to 5)", "API access", "Custom brand voice", "Priority support"],
+      "cta": "Contact Us",
+      "price": 29
+    }
+  ],
+  "platforms": {
+    "twitter": "Twitter Thread",
+    "linkedin": "LinkedIn Post",
+    "newsletter": "Newsletter",
+    "instagram": "Instagram Caption",
+    "seo": "SEO Meta"
+  },
+  "tones": {
+    "professional": "Professional",
+    "casual": "Casual",
+    "humorous": "Humorous",
+    "authoritative": "Authoritative"
+  },
+  "lengths": {
+    "short": "Short",
+    "medium": "Medium",
+    "long": "Long"
+  },
+  "footer": {
+    "builtWith": "Built with ❤️ using the agent-first approach."
+  },
+  "language": {
+    "zh-CN": "中文",
+    "en": "English"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Back"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  }
+}

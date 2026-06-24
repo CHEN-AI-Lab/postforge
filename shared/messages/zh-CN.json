@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "features": "功能",
+    "pricing": "价格",
+    "demo": "演示",
+    "signIn": "登录",
+    "getStarted": "免费开始"
+  },
+  "hero": {
+    "badge": "AI 驱动的内容引擎 v1.0",
+    "title": "一次创作，",
+    "titleAccent": "全域发布。",
+    "subtitle": "不再为每个平台重写内容。PostForge 用 AI 将你的博客文章、笔记自动转为 Twitter 线程、LinkedIn 帖子、Newsletter 等——只需几秒钟。",
+    "cta": "免费开始",
+    "secondaryCta": "了解如何运作",
+    "creditNote": "无需信用卡 • 免费套餐：每月 3 次转换"
+  },
+  "demo": {
+    "title": "立即体验",
+    "placeholder": "粘贴 URL 或文章内容...",
+    "disabled": "登录后即可转换 →",
+    "hint": "无需注册即可体验"
+  },
+  "features": {
+    "title": "一次输入，无限输出",
+    "subtitle": "PostForge 智能适配每种平台的内容格式和受众特点。"
+  },
+  "featureCards": [
+    { "title": "Twitter 线程", "desc": "将任何文章转为引人入胜的 Twitter 线程，带钩子、关键点与行动号召。" },
+    { "title": "LinkedIn 帖子", "desc": "为 LinkedIn 优化的专业长文，提升互动与传播范围。" },
+    { "title": "Newsletter 摘要", "desc": "邮件友好的摘要版本，精准抓住内容精髓。" },
+    { "title": "Instagram 文案", "desc": "简短吸睛的文案，标签优化助你最大化曝光。" },
+    { "title": "SEO 元数据", "desc": "自动生成标题标签、元描述与关键词，优化博客 SEO。" },
+    { "title": "品牌语调", "desc": "AI 学习你的语气与风格——在所有平台保持一致输出。" }
+  ],
+  "pricing": {
+    "title": "简洁定价",
+    "subtitle": "免费开始，按需升级。",
+    "mostPopular": "最受欢迎"
+  },
+  "plans": [
+    {
+      "name": "Free",
+      "desc": "适合体验试用",
+      "features": ["每月 3 次转换", "所有平台格式", "基础内容导入"],
+      "cta": "开始使用",
+      "price": 0
+    },
+    {
+      "name": "Pro",
+      "desc": "为专业创作者打造",
+      "features": ["每月 50 次转换", "所有平台格式", "优先处理", "历史记录与库", "邮件支持"],
+      "cta": "订阅",
+      "price": 9
+    },
+    {
+      "name": "Business",
+      "desc": "面向团队与代理机构",
+      "features": ["无限次转换", "团队账号（最多 5 人）", "API 访问", "自定义品牌语调", "优先支持"],
+      "cta": "联系我们",
+      "price": 29
+    }
+  ],
+  "platforms": {
+    "twitter": "Twitter 线程",
+    "linkedin": "LinkedIn 帖子",
+    "newsletter": "Newsletter",
+    "instagram": "Instagram 文案",
+    "seo": "SEO 元数据"
+  },
+  "tones": {
+    "professional": "专业",
+    "casual": "轻松",
+    "humorous": "幽默",
+    "authoritative": "权威"
+  },
+  "lengths": {
+    "short": "短",
+    "medium": "中",
+    "long": "长"
+  },
+  "footer": {
+    "builtWith": "用 ❤️ 以 Agent-First 方式构建。"
+  },
+  "language": {
+    "zh-CN": "中文",
+    "en": "English"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "retry": "重试",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "close": "关闭",
+    "back": "返回"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "signOut": "退出登录",
+    "email": "邮箱",
+    "password": "密码",
+    "name": "姓名",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？"
+  }
+}
