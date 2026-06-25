@@ -21,6 +21,9 @@
     "vitest": "^1.5.0"
   },
   "packageManager": "pnpm@11.5.0",
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "unrs-resolver"]
+  },
   "engines": {
     "node": ">=18"
   }
