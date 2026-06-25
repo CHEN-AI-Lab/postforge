@@ -2,6 +2,6 @@ packages:
   - "shared"
   - "apps/*"
   - "packages/*"
-allowBuilds:
+onlyBuiltDependencies:
   - esbuild
   - unrs-resolver
