@@ -1,7 +1,4 @@
 packages:
-  - "shared"
-  - "apps/*"
-  - "packages/*"
-onlyBuiltDependencies:
-  - "esbuild"
-  - "unrs-resolver"
+  - 'shared'
+  - 'apps/*'
+  - 'packages/*'
