@@ -11,6 +11,7 @@
     "type-check": "turbo run type-check",
     "test": "vitest run",
     "test:watch": "vitest",
+    "test:e2e": "playwright test",
     "clean": "rm -rf apps/*/.next apps/*/node_modules node_modules packages/*/node_modules shared/node_modules",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\""
   },
